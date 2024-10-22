@@ -75,6 +75,7 @@ Resource visualizer
 ![image](https://github.com/user-attachments/assets/e4e31e0d-b31e-4815-b3ff-01d0628ae479)
 
 Description
+
 Here I am attaching the final working website's screenshot for the reference.
 
 Working Live Project Display:
