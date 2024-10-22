@@ -87,7 +87,7 @@ Home page
 shop page 
 ![image](https://github.com/user-attachments/assets/2af58fa7-a528-401c-9c53-37e4566eb71c)
 
-Blob page 
+Blog page 
 ![image](https://github.com/user-attachments/assets/d539366f-1123-461a-8028-d81d72e9d776)
 
 AboutUs page
